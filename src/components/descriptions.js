@@ -7,12 +7,7 @@ function Descriptions() {
       <div className="row">
         <div className="col">
           <h5 className="title-text">Real Cats</h5>
-          <p className="sub-text">
-            Contrary to popular belief, cats aren't loners. At furbook, we know
-            cats need friendship, affection, and comradery. It is our core
-            belief that beneath every cat's hard, angry, exterior there is a pet
-            who jus wants to play and cuddle with a friend
-          </p>
+          <p className="sub-text">The sub-text is change I guess</p>
         </div>
         <div className="col">
           <h5 className="title-text">Real Dogs</h5>
